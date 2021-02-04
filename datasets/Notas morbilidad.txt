@@ -1,0 +1,24 @@
+001 - 057	Ciertas enfermedades infecciosas y parasitarias
+058 - 096	Tumores [neoplasias]
+097 - 100	Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos  que afectan el mecanismo de la inmunidad
+101 - 111	Enfermedades endocrinas, nutricionales y metabólicas
+112 - 119	Trastornos mentales y del comportamiento
+120 - 129	Enfermedades del sistema nervioso
+130 - 139	Enfermedades del ojo y sus anexos
+140 - 142	Enfermedades del oído y de la apófisis mastoides
+143 - 164	Enfermedades del sistema circulatorio
+165 - 179	Enfermedades del sistema respiratorio
+180 - 197	Enfermedades del sistema digestivo
+198 - 199	Enfermedades de la piel y del tejido subcutáneo
+200 - 210	Enfermedades del sistema osteomuscular y del tejido conjuntivo
+211 - 233	Enfermedades del sistema genitourinario
+234 - 244	Embarazo, parto y puerperio
+245 - 253	Ciertas afecciones originadas en el periodo perinatal
+254 - 266	Malformaciones congénitas, deformidades y anomalías cromósomicas
+267 - 270	Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte
+271 - 289	Traumatismos, envenenamientos y algunas otras consecuencias de causas externas
+290 - 298	Factores que influyen en el estado de salud y contacto con los servicios de salud
+
+
+
+

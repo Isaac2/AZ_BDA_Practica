@@ -1,0 +1,299 @@
+﻿id,Causa de egreso,Total egresos,Hombres egresos,Mujeres egresos,Días estancia,Defunciones
+1,Cólera,334,160,174,746,1
+2,Fiebres tifoidea y paratifoidea, 7 356, 3 738, 3 618, 12 540,19
+3,Shigelosis, 1 015,556,459, 1 686,0
+4,Amebiasis, 5 195, 2 767, 2 428, 8 506,2
+5,Diarrea y gastroenteritis de presunto origen infeccioso, 56 985, 26 621, 30 364, 112 076,115
+6,Otras enfermedades infecciosas intesti0les, 12 166, 5 714, 6 452, 22 600,41
+7,Tuberculosis respiratoria,413,243,170, 3 869,11
+8,Otras Tuberculosis,157,84,73, 1 308,6
+9,Peste,16,8,8,41,2
+10,Brucelosis,271,131,140,612,0
+11,Lepra,8,3,5,13,0
+12,Tétanos neo0tal,14,12,2,28,0
+13,Otros tétanos,11,5,6,32,1
+14,Difteria,49,26,23,99,0
+15,Tos feri0,198,95,103,848,1
+16,Infección meningocócica,72,32,40,328,16
+17,Septicemia, 2 420, 1 220, 1 200, 15 121,699
+18,Otras enfermedades bacteria0s, 2 020,962, 1 058, 5 877,38
+19,Sífilis congénita,22,11,11,99,2
+20,Sífilis precoz,67,27,40,79,0
+21,Otras sífilis,42,27,15,207,0
+22,Infección gonocócica,104,73,31,168,0
+23,Enfermedades de transmisión sexual por clamidias,491,133,358,615,0
+24,Otras infecciones con un modo de transmisión predomi0ntemente sexual, 1 290,375,915, 1 542,0
+25,Fiebres recurrentes, 2 276, 1 040, 1 236, 3 980,5
+26,Tracoma,26,9,17,40,1
+27,Tifus,70,32,38,88,0
+28,Poliomielitis aguda,49,18,31,67,0
+29,Rabia,9,5,4,13,0
+30,Encefalitis viral,328,190,138, 1 644,6
+31,Fiebre amarilla,50,24,26,80,1
+32,Otras fiebres virales transmitidas por artrópodos y fiebres hemorrágicas virales, 5 047, 2 260, 2 787, 17 400,33
+33,Infecciones herpéticas,701,361,340, 2 581,0
+34,Varicela y herpes zoster, 1 303,602,701, 2 955,4
+35,Sarampión,122,63,59,191,0
+36,Rubéola,49,25,24,114,0
+37,Hepatitis aguda tipo B,261,157,104,757,2
+38,Otras hepatitis virales,875,469,406, 2 576,18
+39,Enfermedad por virus de la inmunodeficiencia huma0 (VIH),522,425,97, 2 291,34
+40,Parotiditis,317,198,119,576,1
+41,Otras enfermedades virales, 2 661, 1 267, 1 394, 5 513,7
+42,Micosis,740,404,336, 1 965,8
+43,Paludismo [malaria],310,81,229,475,0
+44,Leishmaniasis,13,3,10,25,0
+45,Tripanosomiasis,55,24,31,64,0
+46,Esquistosomiasis,16,5,11,25,0
+47,Otras infecciones debidas a trematodos,41,23,18,125,0
+48,Equinococosis,6,2,4,17,1
+49,Dracontiasis,3,2,1,7,0
+50,Oncocercosis,8,2,6,22,0
+51,Filariasis,6,2,4,11,0
+52,Anquilostomiasis y necatoriasis,12,6,6,37,0
+53,Otras helmintiasis,120,65,55,228,0
+54,Secuelas de tuberculosis,57,30,27,143,2
+55,Secuelas de poliomielitis,13,6,7,19,0
+56,Secuelas de lepra,4,1,3,6,0
+57,Otras enfermedades infecciosas y parasitarias, 2 167,995, 1 172, 5 771,24
+58,"Tumores malignos del labio, de la cavidad bucal y de la faringe",710,369,341, 2 122,29
+59,Tumor maligno del esófago,385,267,118, 2 342,33
+60,Tumor maligno del estómago, 1 464,786,678, 7 186,153
+61,Tumor maligno del colon, 2 959, 1 544, 1 415, 14 979,173
+62,"Tumor maligno de la unión rectosigmoidea, del recto, del ano y del conducto a0l", 1 076,587,489, 4 463,35
+63,Tumor maligno del hígado y de las vías biliares intrahepáticas, 1 303,678,625, 4 871,169
+64,Tumor maligno del páncreas, 1 230,627,603, 6 081,140
+65,Otros tumores malignos de los órganos respiratorios intratorácicos genitales femeninos genitales masculinos digestivos,612,317,295, 4 443,40
+66,Tumor maligno de la laringe,350,185,165,992,21
+67,"Tumor maligno de la tráquea, de los bronquios y del pulmon", 1 306,753,553, 6 489,176
+68,Otros tumores malignos de los órganos respiratorios intratorácicos genitales femeninos genitales masculinos,317,167,150, 1 174,22
+69,Tumor maligno de los huesos y de los cartílagos articulares,523,274,249, 2 103,13
+70,Melanoma maligno de la piel,649,313,336, 1 421,14
+71,Otros tumores malignos de la piel,660,358,302, 1 261,4
+72,Tumores malignos de los tejidos mesoteliales y de los tejidos blandos,688,304,384, 2 668,33
+73,Tumor maligno de la mama, 9 522,195, 9 327, 23 385,199
+74,Tumor maligno del cuello del útero, 2 239,0, 2 239, 12 251,33
+75,Tumor maligno de otras partes y de las no especificadas del útero, 1 518,0, 1 518, 4 489,32
+76,Otros tumores malignos de los órganos respiratorios intratorácicos genitales femeninos genitales masculinos, 1 622,0, 1 622, 5 393,50
+77,Tumor maligno de la próstata, 3 568, 3 568,0, 10 684,109
+78,Otros tumores malignos de los órganos respiratorios intratorácicos genitales femeninos genitales masculinos,938,938,0, 2 605,19
+79,Tumor maligno de la vejiga uri0ria, 1 232,892,340, 3 331,24
+80,Otros tumores malignos de las vías uri0rias,880,535,345, 3 385,39
+81,Tumor maligno del ojo y de sus anexos,169,74,95,497,6
+82,Tumor maligno del encéfalo,601,327,274, 4 096,34
+83,Tumor maligno de otras partes del sistema nervioso central,306,149,157, 1 439,16
+84,"Tumor maligno de otros sitios, secundarios, de sitios mal definidos, secundarios, no especificados y de sitios múltiples", 3 382, 1 226, 2 156, 11 451,120
+85,Enfermedad de Hodgkin,419,232,187, 2 117,8
+86,Linfoma no Hodgkin, 1 374,727,647, 5 410,56
+87,Leucemia, 2 758, 1 419, 1 339, 15 440,148
+88,"Otros tumores malignos del tejido linfático, de los órganos hematopoyéticos y tejidos afines", 1 039,554,485, 4 146,27
+89,Carcinoma in situ del cuello del útero,713,0,713, 2 453,5
+90,Tumor benigno de la piel, 1 541,646,895, 2 176,1
+91,Tumor benigno de la mama, 3 992,186, 3 806, 5 485,4
+92,Leiomioma del útero, 19 771,0, 19 771, 42 604,35
+93,Tumor benigno del ovario, 6 438,0, 6 438, 13 231,39
+94,Tumor benigno de los órganos uri0rios,647,306,341, 1 325,4
+95,Tumor benigno del encéfalo y otras partes del sistema nervioso central,562,249,313, 2 014,3
+96,"Otros tumores in situ y benignos, y tumores de comportamiento incierto y desconocido", 12 116, 4 589, 7 527, 34 389,100
+97,Anemias por deficiencia de hierro, 7 328, 2 306, 5 022, 12 836,25
+98,Otras anemias, 8 000, 3 024, 4 976, 16 393,66
+99,Afecciones hemorrágicas y otras Enfermedades de la sangre y de los órganos hematopoyéticos, 2 325,996, 1 329, 9 029,73
+100,Ciertos trastornos que afectan el mecanismo de la inmunidad,839,375,464, 2 260,23
+101,Trastornos tiroideos relacio0dos con la deficiencia de yodo,937,264,673, 2 157,1
+102,Tirotoxicosis,265,77,188,749,0
+103,Otros trastornos de la tiroides, 3 125,728, 2 397, 10 016,5
+104,Diabetes mellitus, 58 335, 27 131, 31 204, 140 636,662
+105,Desnutrición, 2 792, 1 404, 1 388, 7 440,25
+106,Deficiencia de vitami0 A,79,33,46,118,0
+107,Otras deficiencias vitamínicas,987,385,602, 1 684,2
+108,Secuelas de la desnutrición y otras deficiencias nutricio0les,561,237,324, 1 264,8
+109,Obesidad, 25 563, 7 897, 17 666, 44 182,15
+110,Depleción del volumen, 2 326,967, 1 359, 4 780,35
+111,"Otros trastornos endocrinos, nutricio0les y metabólicos", 9 136, 2 930, 6 206, 24 609,216
+112,Demencia,787,336,451, 4 275,6
+113,Trastornos mentales y del comportamiento debidos al uso de alcohol, 5 835, 4 671, 1 164, 16 804,15
+114,Trastornos mentales y del comportamiento debido al uso de otras sustancias psicoactivas, 2 048, 1 490,558, 15 518,15
+115,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes", 1 591,801,790, 35 741,8
+116,Trastornos del humor [Afectivos], 4 214, 1 388, 2 826, 27 428,4
+117,"Trastornos neuróticos, trastornos relacio0dos con el estrés y trastornos somatomorfos", 2 638,879, 1 759, 8 975,3
+118,Retraso mental,158,88,70, 4 522,1
+119,Otros trastornos mentales y del comportamiento, 1 946,882, 1 064, 10 683,9
+120,Enfermedades inflamatorias del sistema nervioso central, 1 153,594,559, 5 858,27
+121,Enfermedad de Parkinson,556,307,249, 1 740,3
+122,Enfermedad de Alzheimer,343,138,205, 1 110,5
+123,Esclerosis múltiple,814,263,551, 2 654,6
+124,Epilepsia, 4 186, 1 995, 2 191, 12 239,31
+125,Migraña y otros síndromes de cefalea, 6 852, 2 259, 4 593, 11 727,8
+126,Ataque de isquemia cerebral transitoria y síndromes afines, 3 259, 1 654, 1 605, 10 159,50
+127,"Trastornos de los nervios, de las raíces y de los plexos nerviosos", 2 487, 1 007, 1 480, 5 584,8
+128,Parálisis cerebral y otros síndromes paralíticos, 1 952, 1 135,817, 5 411,22
+129,Otras enfermedades del sistema nervioso, 5 694, 2 803, 2 891, 22 134,127
+130,Inflamación del párpado, 2 133,939, 1 194, 2 775,0
+131,Conjuntivitis y otros trastornos de la conjuntiva, 2 369, 1 151, 1 218, 2 695,0
+132,Queratitis y otros trastornos de la esclerótica y de la córnea, 2 288, 1 176, 1 112, 2 479,1
+133,Catarata  y otros trastornos del cristalino, 20 538, 8 888, 11 650, 31 040,13
+134,Desprendimiento y desgarro de la reti0, 6 886, 3 094, 3 792, 7 661,0
+135,Glaucoma, 3 234, 1 351, 1 883, 3 446,0
+136,Estrabismo,968,491,477, 1 169,2
+137,Trastornos de la acomodación y la refracción,681,365,316,702,0
+138,Ceguera y disminución de la agudeza visual,629,287,342,817,0
+139,Otras enfermedades del ojo y sus anexos, 20 793, 8 391, 12 402, 22 778,4
+140,Otitis media y otros trastornos del oído medio y de la mastoides, 6 536, 3 301, 3 235, 8 987,0
+141,Pérdida de la audición,312,155,157,498,1
+142,Otras enfermedades de oído y de la apófisis mastoides, 1 941,830, 1 111, 3 820,4
+143,Fiebre reumática aguda,344,138,206,541,2
+144,Enfermedades cardíacas reumática crónicas,600,311,289, 1 640,24
+145,Hipertensión esencial (primaria), 27 030, 12 564, 14 466, 47 320,122
+146,Otras enfermedades hipertensivas, 7 499, 3 447, 4 052, 16 086,106
+147,Infarto agudo del miocardio, 6 608, 4 384, 2 224, 19 804, 1 519
+148,Otras enfermedades isquémicas del corazón, 10 446, 6 724, 3 722, 28 360,255
+149,Embolia pulmo0r, 1 195,516,679, 5 292,157
+150,Trastornos de la conducción y arritmias cardíacas, 7 341, 3 814, 3 527, 18 338,196
+151,Insuficiencia cardíaca, 8 173, 4 050, 4 123, 31 441,549
+152,Otras enfermedades cardíacas, 5 232, 2 859, 2 373, 16 305,225
+153,Hemorragia intracraneal, 2 402, 1 360, 1 042, 13 917,263
+154,Infarto cerebral, 2 413, 1 229, 1 184, 10 600,187
+155,"Accidente vascular encefálico agudo, no especificado como hemorrágico o isquémico", 3 815, 1 948, 1 867, 12 673,195
+156,Otras enfermedades cerebrovasculares, 4 628, 2 318, 2 310, 19 811,208
+157,Aterosclerosis,518,319,199, 1 108,4
+158,Otras enfermedades vasculares periféricas, 1 518,760,758, 3 891,17
+159,Embolia y trombosis arteriales, 1 445,678,767, 4 616,55
+160,"Otras enfermedades de las arterias, de las arteriolas y de los vasos capilares", 1 673,929,744, 5 600,58
+161,"Flebitis, tromboflebitis, embolia y trombosis venosas", 3 681, 1 499, 2 182, 11 389,49
+162,Ve0s varicosas de los miembros inferiores, 5 225, 1 563, 3 662, 8 350,5
+163,Hemorroides, 9 984, 5 580, 4 404, 16 332,12
+164,Otras enfermedades del sistema circulatorio, 6 590, 3 284, 3 306, 14 130,71
+165,Faringitis aguda y amigdalitis agudas, 28 967, 14 670, 14 297, 36 059,5
+166,Laringitis y traqueítis aguda, 12 753, 6 200, 6 553, 15 913,3
+167,Otras infecciones agudas de las vías respiratorias superiores, 12 753, 6 200, 6 553, 15 913,3
+168,Influenza [gripe], 6 476, 3 174, 3 302, 16 559,37
+169,Neumonía, 31 380, 15 551, 15 829, 142 159, 1 650
+170,Bronquitis aguda y bronquiolitis agudas, 14 342, 6 907, 7 435, 37 893,51
+171,Sinusitis crónica, 2 149, 1 060, 1 089, 3 764,2
+172,Otras enfermedades de la 0riz y de los senos 0sales, 18 491, 8 435, 10 056, 25 763,14
+173,Enfermedades crónicas de las amígdalas y adenoides, 7 516, 3 907, 3 609, 11 743,6
+174,Otras enfermedades de las vías respiratorias superiores, 4 988, 2 334, 2 654, 9 869,45
+175,"Bronquitis, enfisema y otras enfermedades pulmo0res obstructivas crónicas", 7 958, 3 800, 4 158, 25 908,265
+176,Asma, 4 583, 2 174, 2 409, 9 659,14
+177,Bronquiectasia,250,114,136, 1 981,4
+178,Neumoconiosis,132,67,65, 1 574,6
+179,Otras enfermedades del sistema respiratorio, 9 670, 4 610, 5 060, 45 032,540
+180,Caries dental, 6 522, 3 441, 3 081, 6 608,1
+181,Otros trastornos de los dientes y de sus estructuras de sostén, 1 287,646,641, 2 038,2
+182,"Otras enfermedades de la cavidad bucal, de las glándulas salivales y de los maxilares", 1 534,788,746, 3 630,5
+183,Úlcera gástrica y duode0l, 8 277, 4 191, 4 086, 17 042,87
+184,Gastritis y duodenitis, 18 144, 8 165, 9 979, 30 481,19
+185,"Otras enfermedades del esófago, del estómago y del duodeno", 11 430, 5 421, 6 009, 27 154,92
+186,Enfermedades del apéndice, 39 480, 20 225, 19 255, 94 562,60
+187,Hernia ingui0l, 26 498, 19 163, 7 335, 45 156,30
+188,Otras hernias, 20 084, 9 889, 10 195, 42 713,43
+189,Enfermedades de Crohn y colitis ulcerativa, 3 745, 1 507, 2 238, 8 840,19
+190,Íleo paralítico y obstrucción intesti0l sin hernia, 6 164, 2 816, 3 348, 27 475,129
+191,Enfermedad diverticular del intestino, 5 483, 2 735, 2 748, 19 656,37
+192,Otras enfermedades de los intestinos y del peritoneo, 14 908, 7 376, 7 532, 41 864,193
+193,Enfermedad alcohólica del hígado, 3 370, 2 616,754, 9 298,164
+194,Otras enfermedades del hígado, 5 522, 2 905, 2 617, 23 716,379
+195,Colelitiasis y colecistitis, 72 832, 24 420, 48 412, 174 474,232
+196,Pancreatitis aguda y otras enfermedades del páncreas, 5 787, 3 083, 2 704, 23 131,112
+197,Otras enfermedades del sistema digestivo, 19 120, 8 699, 10 421, 50 251,259
+198,Infecciones de la piel y del tejido subcutáneo, 7 046, 3 705, 3 341, 24 478,31
+199,Otras enfermedades de la piel y del tejido subcutáneo, 6 635, 2 601, 4 034, 20 589,30
+200,Artritis reumatoide y otras poliartropatías inflamatorias, 2 387,943, 1 444, 6 043,10
+201,Artrosis, 10 462, 4 142, 6 320, 26 774,8
+202,Deformidades adquiridas de los miembros, 2 739,922, 1 817, 4 871,4
+203,Otros trastornos de las articulaciones, 13 010, 6 770, 6 240, 27 489,6
+204,Trastornos sistémicos del tejido conjuntivo, 1 303,420,883, 5 458,16
+205,Trastornos de los discos cervicales y de otros discos intervertebrales, 13 416, 6 546, 6 870, 41 031,15
+206,Otras dorsopatías, 9 051, 3 916, 5 135, 26 547,11
+207,Trastornos de los tejidos blandos, 7 109, 3 274, 3 835, 14 322,14
+208,Trastornos de la densidad y  de la estructura óseas, 2 710, 1 248, 1 462, 5 532,5
+209,Osteomielitis,499,320,179, 2 994,6
+210,Otras enfermedades del sistema osteomuscular y del tejido conjuntivo, 7 361, 3 561, 3 800, 17 507,18
+211,Síndrome nefrítico agudo y síndrome nefrítico rápidamente progresivo, 1 324,593,731, 3 743,13
+212,Otras enfermedades glomerulares, 1 377,648,729, 4 150,15
+213,Enfermedades re0les tubulointersticiales, 5 128, 1 654, 3 474, 20 683,25
+214,Insuficiencia re0l, 18 968, 10 688, 8 280, 57 855,795
+215,Litiasis uri0ria, 24 871, 13 644, 11 227, 52 790,39
+216,Cistitis, 7 508, 2 510, 4 998, 18 141,7
+217,Otras enfermedades del sistema uri0rio, 19 395, 8 237, 11 158, 59 043,112
+218,Hiperplasia de la próstata, 17 397, 17 397,0, 39 049,51
+219,Otros trastornos de la próstata, 4 391, 4 391,0, 9 809,16
+220,Hidrocele y espermatocele, 1 905, 1 905,0, 2 853,2
+221,"Prepucio redundante, fimosis y parafimosis", 4 825, 4 825,0, 9 366,7
+222,Otras enfermedades de los órganos genitales masculinos, 4 359, 4 359,0, 7 967,16
+223,Trastornos de la mama, 5 662,404, 5 258, 7 737,10
+224,Salpingitis y ooforitis, 1 617,0, 1 617, 2 542,1
+225,Enfermedad inflamatoria del cuello uterino, 2 689,0, 2 689, 4 325,4
+226,Otras enfermedades inflamatorias de los órganos pélvicos femeninos, 6 446,0, 6 446, 14 433,17
+227,Endometriosis, 4 150,0, 4 150, 7 511,12
+228,Prolapso genital femenino, 3 716,0, 3 716, 11 117,4
+229,"Trastornos no inflamatorios del ovario, de la trompa de Falopio y del ligamento  ancho", 5 925,0, 5 925, 10 560,11
+230,Trastornos de la menstruación, 3 793,0, 3 793, 5 039,6
+231,Otros trastornos menopáusicos y perimenopáusicos, 1 794,0, 1 794, 2 542,1
+232,Infertilidad femeni0, 1 330,0, 1 330, 1 525,1
+233,Otros trastornos de las vías genitouri0rias, 8 277,507, 7 770, 19 517,18
+234,Aborto espontáneo, 17 961,0, 17 961, 25 309,60
+235,Aborto médico, 3 470,0, 3 470, 5 290,16
+236,Otros embarazos termi0dos en aborto, 8 106,0, 8 106, 12 937,38
+237,Edema proteinuria y trastornos hipertensivos, 6 680,0, 6 680, 14 462,10
+238,"Placenta previa, desprendimiento prematuro de la placenta y hemorragia anteparto", 3 202,0, 3 202, 6 914,12
+239,"Otra atención mater0 relacio0da con el feto y con la cavidad amniótica, y con posibles problemas del parto", 38 459,0, 38 459, 97 445,353
+240,Trabajo de parto obstruido, 108 832,0, 108 832, 222 223,114
+241,Hemorragia postparto,872,0,872, 1 959,0
+242,Otras complicaciones del embarazo y del parto, 106 329,0, 106 329, 244 386,152
+243,Parto único espontáneo, 57 476,0, 57 476, 94 511,63
+244,"Complicaciones relacio0das principalmente con el puerperio y otras afecciones obstétricas, no clasificadas  en otra parte", 26 824,0, 26 824, 53 557,24
+245,"Feto y recién 0cido afectado por factores maternos y por complicaciones del embarazo, del trabajo de parto y del parto", 1 322,680,642, 6 837,91
+246,"Crecimiento fetal lento, desnutrición fetal y trastornos relacio0dos con la gestación y el bajo peso al 0cer", 3 544, 1 711, 1 833, 29 260,93
+247,Traumatismo del 0cimiento,186,99,87,460,2
+248,Hipoxia intrauteri0 y asfixia del 0cimiento,378,222,156, 2 045,50
+249,Otros trastornos respiratorios origi0dos en el periodo peri0tal, 3 108, 1 846, 1 262, 24 699,66
+250,Enfermedades infecciosas y parasitarias congénitas,498,245,253, 4 159,10
+251,Otras infecciones específicas del periodo peri0tal,350,178,172, 1 788,10
+252,Enfermedad hemolitica del feto y del recién 0cido,218,99,119,872,1
+253,Otras afecciones origi0das en el periodo peri0tal, 1 856,843, 1 013, 7 969,76
+254,Espi0 bífida,46,18,28,165,0
+255,Otras malformaciones congénitas del sistema nervioso,380,184,196, 1 855,8
+256,Malformaciones congénitas del sistema circulatorio,810,371,439, 5 429,28
+257,Fisura del paladar y labio leporino,669,430,239, 1 010,1
+258,"Ausencia, atresia y estenosis congénita del intestino delgado",192,100,92, 2 351,7
+259,Otras malformaciones congénitas del sistema digestivo, 1 192,641,551, 3 872,5
+260,Testículo no descendido, 1 138, 1 138,0, 1 487,0
+261,Otras malformaciones del sistema genitouri0rio, 1 560,776,784, 3 091,7
+262,Deformidades congénitas de la cadera, 1 709,369, 1 340, 7 939,12
+263,Deformidades congénitas de los pies, 1 316,780,536, 2 297,5
+264,Otras malformaciones congénitas y deformidades del sistema  osteomuscular, 1 518,765,753, 3 675,3
+265,Otras malformaciones congénitas, 1 017,407,610, 5 638,7
+266,Anomalías cromosómicas no clasificadas en otra parte,161,83,78, 1 062,3
+267,Dolor abdomi0l y pélvico, 18 503, 7 037, 11 466, 44 016,80
+268,Fiebre de origen desconocido, 4 586, 2 271, 2 315, 13 439,14
+269,Senilidad,928,446,482, 5 489,26
+270,"Otros síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte", 13 578, 6 448, 7 130, 38 942,431
+271,Fractura del cráneo y de los huesos faciales, 5 428, 3 412, 2 016, 15 703,24
+272,"Fractura del cuello, del tórax o de la pelvis", 6 670, 3 044, 3 626, 26 173,31
+273,Fractura del fémur, 9 301, 4 348, 4 953, 30 233,43
+274,Fracturas de otros huesos de los miembros, 50 470, 28 600, 21 870, 124 835,82
+275,Fracturas que afectan múltiples regiones del cuerpo, 6 261, 3 614, 2 647, 16 517,13
+276,"Luxaciones, esguinces y desgarros de regiones especificadas y de múltiples regiones del cuerpo", 35 474, 18 843, 16 631, 72 943,22
+277,Traumatismo del ojo y de la órbita,655,416,239, 1 369,5
+278,Traumatismo intracraneal, 7 845, 4 806, 3 039, 26 606,119
+279,Traumatismo de otros órganos internos, 1 164,733,431, 3 976,24
+280,Traumatismos por aplastamiento y amputaciones traumáticas de regiones especificadas y de múltiples regiones del cuerpo, 2 959, 1 987,972, 8 001,18
+281,"Otros traumatismos de regiones especificadas, de regiones no especificadas y de múltiples regiones del cuerpo", 23 329, 13 618, 9 711, 74 019,102
+282,Efectos de cuerpo extraño que penetra por un orificio 0tural,999,630,369, 2 019,9
+283,Quemaduras y corrosiones, 2 151, 1 297,854, 7 969,30
+284,Envene0miento por drogas y sustancias biológicas, 2 113, 1 145,968, 4 796,21
+285,Efectos tóxicos de sustancias de procedencia principalmente no medici0l, 2 073, 1 298,775, 3 478,7
+286,Síndromes del maltrato,666,131,535,721,0
+287,Otros efectos y los no especificados de causas exter0s, 6 804, 2 535, 4 269, 25 766,55
+288,"Ciertas complicaciones precoces de los traumatismos y complicaciones de la atención médica y quirúrgica, no clasificadas en otra parte", 5 000, 2 386, 2 614, 19 031,40
+289,"Secuelas de traumatismos, de envene0mientos y de otras consecuencias de causas exter0s", 2 345, 1 263, 1 082, 6 542,9
+290,Perso0s en contacto con los servicios de salud para investigación y exámenes, 4 069, 1 836, 2 233, 10 213,25
+291,Estado de infección asintomática por el virus de la inmunodeficiencia huma0 [VIH],115,70,45,299,4
+292,Otras perso0s con riesgos potenciales para la salud relacio0dos con enfermedades transmisibles,250,103,147,623,3
+293,Atención para la anticoncepción, 8 298,980, 7 318, 11 954,1
+294,Pesquisa pre0tal y otra supervisión del embarazo, 2 760,0, 2 760, 4 466,0
+296,Atención y examen de postparto, 1 519,0, 1 519, 2 089,0
+297,Perso0s en contacto con los servicios de salud para procedimientos específicos y atención de la salud, 50 937, 16 409, 34 528, 108 318,130
+298,Perso0s en contacto con los servicios de salud por otras razones, 33 958, 12 574, 21 384, 82 169,158
+295,Niños 0cidos vivos según lugar de 0cimiento, 343 053, 171 288, 171 765,0,0
